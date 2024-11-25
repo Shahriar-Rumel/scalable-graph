@@ -158,7 +158,7 @@ This project is a **scalable and interactive network graph application** designe
 
 ## 6. Deployment
 
-A live version is available on **[Vercel](https://netmaker-episode.vercel.app/)**.
+A live version is available on **[Vercel](https://scalable-graph.vercel.app/)**.
 
 ## 7. Testing
 
